@@ -1,6 +1,6 @@
 # Satın Almak İçin Dm Üzerinden Ulaşabilirsiniz!
 # Discord Name: ravgar#0001
-# Herşeyin En Kralı Kurulu Olan Web Panel Mantığında Çalışan Bir Sistemdir
+# Herşeyin Siteye Bağlı Olduğu İşlemlerinizi İzin Verdiğiniz Bot Sahibi Dışında Sunucu Sahiplerinin Kontrol Edebildiği Bir Sistemdir 
 
 ![image](https://user-images.githubusercontent.com/97904458/229293400-4a94c987-a0a2-4533-9f15-e2cafd1bda6c.png)
 ![image](https://user-images.githubusercontent.com/97904458/229293403-fe82d073-0841-4609-9b7d-f4bf1e8a5b74.png)
