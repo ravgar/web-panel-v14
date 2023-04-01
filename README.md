@@ -1,6 +1,7 @@
 # Satın Almak İçin Dm Üzerinden Ulaşabilirsiniz!
 # Discord Name: ravgar#0001
 # Herşeyin Siteye Bağlı Olduğu İşlemlerinizi İzin Verdiğiniz Bot Sahibi Dışında Sunucu Sahiplerinin Kontrol Edebildiği Bir Sistemdir 
+# Welcome,Stat,İnvite,Moderasyon,Register,Self Guard,Dağıtıcı/Backup,Guard Botları Bulunmaktadır
 
 ![image](https://user-images.githubusercontent.com/97904458/229293400-4a94c987-a0a2-4533-9f15-e2cafd1bda6c.png)
 ![image](https://user-images.githubusercontent.com/97904458/229293403-fe82d073-0841-4609-9b7d-f4bf1e8a5b74.png)
